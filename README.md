@@ -1,7 +1,11 @@
-# Easyui.SideMenu.Demo
+﻿# Easyui.SideMenu.Demo
 
 #### 项目介绍
 一个简单的基于Easyui的SideMenu的Demo。
+
+#### 项目截图
+![](https://gitee.com/huaiXH/Easyui.SideMenu.Demo/raw/master/Images/20181121112713.png)
+![](https://gitee.com/huaiXH/Easyui.SideMenu.Demo/raw/master/Images/20181121112744.png)
 
 #### 软件架构
 软件架构说明
